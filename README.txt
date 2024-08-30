@@ -36,7 +36,7 @@ By the end of the program your directory should look like this:
     |   ├── Reference Genome indexing and dictionary files
     |   └── BWA files (.AMB, .ANN, .BWT, .PAC, .SA)
     ├── known_sites/
-    |	└──Databases
+    |	└── Databases
     ├── exome_analysis_final.sh
     ├── exome_loop_updated.sh
     ├── sample1/
@@ -93,7 +93,7 @@ Ao final do programa é esperado que o diretório fique assim:
     |   ├── Arquivo de indexação e dicionário do Genoma de Referência
     |   └── Arquivos gerados pelo BWA (.AMB, .ANN, .BWT, .PAC, .SA)
     ├── known_sites/
-    |	└──Bases de Dados
+    |	└── Bases de Dados
     ├── exome_analysis_final.sh
     ├── exome_loop_updated.sh
     ├── amostra1/
