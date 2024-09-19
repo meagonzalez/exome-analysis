@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Comments are wrriten like "EN-US/PT-BR"/Comentários foram escritos da forma "EN-US/PT-BR"
+#Comments are written like "EN-US/PT-BR"/Comentários foram escritos da forma "EN-US/PT-BR"
 
 #Stating where GATK is stored/Identificando a localização do GATK
 export PATH="$PATH:/dados/giudicelligc/gatk-4.5.0.0/"
